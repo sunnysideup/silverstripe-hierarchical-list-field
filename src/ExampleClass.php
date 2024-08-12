@@ -1,8 +1,7 @@
 <?php
 
-namespace Sunnysideup\Skeleton;
+namespace Sunnysideup\HierarchicalListField;
 
-class ExampleClass
+class HierarchicalListField extends \SilverStripe\Forms\LiteralField
 {
-
 }
