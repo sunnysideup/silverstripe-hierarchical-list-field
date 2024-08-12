@@ -1,6 +1,6 @@
 {
     "name": "sunnysideup/hierarchical-list-field",
-    "description": "A hierarchical-list-field for Silverstripe CMS modules.",
+    "description": "A hierarchical-list-field for Silverstripe CMS. This module allows you to create a read-only list form field with items that can be expanded and collapsed.",
     "type": "silverstripe-vendormodule",
     "keywords": [
         "hierarchical",
