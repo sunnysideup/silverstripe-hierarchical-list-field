@@ -1,0 +1,23 @@
+.hierarchical-list-field ul {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+.hierarchical-list-field li.expandable > ul {
+  display: none;
+  padding-left: 20px;
+  margin: 0;
+}
+
+.hierarchical-list-field .expandable {
+  cursor: pointer;
+  margin-top: 0.5rem;
+}
+
+.hierarchical-list-field .expandable-arrow {
+  display: inline-block;
+  width: 1rem;
+}
+.hierarchical-list-field .expandable-arrow:hover {
+  color: green;
+}

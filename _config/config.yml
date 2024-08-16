@@ -1,1 +1,9 @@
 # see https://docs.silverstripe.org/en/developer_guides/configuration/configuration/
+---
+name: hierarchical-list-field
+---
+SilverStripe\Admin\LeftAndMain:
+  extra_requirements_css:
+    - sunnysideup/hierarchical-list-field:client/dist/HierarchicalListField.css
+  extra_requirements_javascript:
+    - sunnysideup/hierarchical-list-field:client/dist/HierarchicalListField.js
