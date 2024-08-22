@@ -36,8 +36,8 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "bin": [
-        "bin/npm-build-hierarchical-list-field.sh",
-        "bin/npm-watch-hierarchical-list-field.sh"
+        "bin/sake-npm-build-hierarchical-list-field.sh",
+        "bin/sake-npm-watch-hierarchical-list-field.sh"
     ],
     "authors": [
         {
